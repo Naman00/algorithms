@@ -22,17 +22,7 @@ int binarysearch(int arr[],int low,int high,int key)
 }
 int main()
 {
-// 	int arr[]={1,2,3,4,5,6,8};
-// 	int a = binarysearch(arr,0,7,7);
-// 	if(a!=-1)
-// 		cout<<"element found at index:"<<a;
-// 	else
-// 		cout<<"element not found";
 
-//     #ifndef ONLINE_JUDGE
-// 		freopen("input.txt","r",stdin);
-// 		freopen("output.txt","w",stdout);
-// 	#endif
     int arr[10];
 	for(int i=0;i<10;i++)
 	{
